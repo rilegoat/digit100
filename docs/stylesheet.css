@@ -18,7 +18,7 @@
 /*  --- keyframe animations --- */
 @keyframes fadeIn {
     0% { opacity: 0; transform: translateY(10px); }
-    100% { opacity: 1; transform: translateY(0px);}
+    100% { opacity: 1; transform: translateY(0px); }
 }
 /*  --- end keyframes --- */
 
@@ -46,7 +46,7 @@ hr {
 
 nav {
     margin: auto;
-    width: 30%;
+    width: 40vw;
     padding: 20px;
     border-radius: 15px;
     border: #f49d9d;
@@ -75,7 +75,7 @@ a:hover {
     margin-right: auto;
     margin-top: 5px;
     margin-bottom: 5px;
-    width: 30%;
+    width: 40vw;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 5px;
