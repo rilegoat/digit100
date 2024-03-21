@@ -1,0 +1,207 @@
+(The opening sequence begins. We see the LaserScope, U-Force, Action Max, and Volley VI boxes stacked on top of the Commodore 64 box. The Nerd takes the boxes off the shelf and grabs the Commodore 64 box. He opens the box and sets up the computer at his desk. He puts the monitor in place and plugs in the audio and video cables, and then grabs a joystick from his drawer of accessories. He plugs it in and turns on the Commodore 64, revealing the Angry Video Game Nerd logo. It zooms into the monitor and the episode begins.)
+
+Let's go back to the past, far back. I'm talkin' old school. None of this PS4 bullshit. What's that stand for, piss on the floor? Well, 5 is out, so I'm a little late on that stupid joke. (picks up a rotary phone and hits himself in the head) Ungh! Well, you know me. I like Atari, ColecoVision, Intellivision. So why haven't I done an episode on the Commodore 64? It is episode 198, after all. Well, I have reviewed some Commodore games in the past, so... roll the clips!
+
+The Nerd (from various episodes): I'm at a farm with a dinosaur stepping on a space shuttle. I have no comment. Yeah, that's another thing about the Commodore, it only works when it feels like it. Well anyway, the game sucks, gotta give it the Batman punishment! Fuck. Fuck! Fuck! FUCK! That's enough of this shit.
+
+But let's take a closer look at the system itself. Now, of course, it wasn't just a gaming console, it was a personal computer, one that many remember with great fondness. It was a computer for the masses, not the classes.
+
+Commodore made a whole series of computers, beginning in '77 with the PET. You ever had a pet computer? Well, you can't have a computer for a pet, but you'd have a PET for a computer. Next, in 1980, came the VIC-20, which I've actually shown you before.
+
+The Nerd (Ep. 57): First exhibit is The Count on the VIC-20. Now, what the fuck is a VIC-20? Well, it's an old Commodore computer from 1980. Thought the Commodore 64 was primitive? Well, check out the VIC-20. Look at that cartridge. That's what you call a game.
+
+The competition was Apple II, and Atari 400 and 800, and even the RadioShack TRS-80, Yeah. They all had better sound and graphics, though the VIC-20 had a slight advantage using composite connections, instead of that RF bullshit. Next in '82, came the Commodore 64 named after its 64K of ram, long before the Nintendo 64 would be named after its 64 bits.
+
+What makes it interesting is that the games came on multiple formats: cassettes, cartridges, and floppy disks, both the hard floppies and the floppy floppies. (flops the floppy disk around)
+
+Whenever it's hot in here, I just fan myself with the floppy floppies. (fans himself with a floppy disk) Or, make a house of cards.
+
+(The Nerd tries to make a house of cards with three floppy disks, but it falls down.)
+
+Or not.
+
+The disk drives and hardware were sold separately and had all these different names like the Commodore 1530 Datasette and the 1541 floppy disk drive. These weren't without their issues, such as the disc getting stuck and needing a butter knife to pry the damn thing out. It even had a printer. Doubt I have any ink, but I do have the perforated paper. Yeah, this was back in the dark ages, when printers were unable to shit out a piece of paper without these holes, so that the gears can grab onto them and advance the paper through.
+
+I distinctly remember printing out happy birthday banners and stuff like that, which would just print across several sheets of paper, it would come out, it would take like an hour and be like... (does a loud, jarring imitation of the printer)
+
+Yeah, man. Commodore 64 was crazy. It even had the Incredible Music Keyboard. Yeah. Sure is incredible. Then there's this whole programming book. This is how a lot of game programs will get their start here, as with the Commodore, you could actually program your games, or even reprogram some of the ones that already exist on there. Yeah.
+
+But what's really impressive is how many games were made for the Commodore. It's SO many that I've never even found a definitive number. It seems there were maybe 2,000 games, but if you count every commercial software title including office applications, the number might've been as much as 10,000.
+
+But anyway, take a look at my collection here. So many games. I have Commando, Predator, RoboCop... somebody's tax documents from 1989. Yeah. I got these collections in large groups, so... lots of random stuff made its way in. Seeing all these handwritten labels reminds me of the old days when everyone used to copy shit. Same as today, I guess, but only the format has changed.
+
+As a kid, copying games was so common, I think I saw handwritten labels more often than their proper labels. Certain games, I don't even know where they came from. It seemed everybody's grandpa or uncle had some poker game that they got from somebody, who got it from somebody else. And yes, viruses were a thing back then, but I realized the best solution for a virus, is to have a computer that's so shitty, the virus will go, "Nah."
+
+But that's not to say, the Commodore 64 didn't have copy protection. The most common method, which I've mentioned in past episodes, was the code cards where the game won't start before asking you which characters appear in a certain set of columns and rows. But some of them took it a step further, by making it an impossible shade of brownish maroon, so you couldn't photocopy it, or barely even look at it! Then there's this one. How the hell does this thing work? Man, they got real creative with some of these codes. It's like some kinda covert spy operation!
+
+But let's take a step back. When you first power up the machine, you get a command screen. Nothing unusual. In the '80s, that's what you see when you start up a computer. There's no Apple logo with a deafening DONG! Nothing like that, no! You just see a bunch of words on the screen, you type stuff in. and that makes it go! So if you know the load command, let's all say it together: Load, quote, asterisk, quote, comma, eight, comma, one. Yeah, that's what you put in, and you have to do it every single time you wanna play something. WHY DO I GOTTA DO THAT?! I'll tell ya why, because, it's actually... not as random as it seems.
+
+The asterisk tells it to load the first file it finds, which should be the first file in the game, but sometimes you actually have to put the name in. The first number specifies the device, eight for the disk drive and one for the cassette, and the last number does some other shit. It loads the game into active memory, but it depends on the game because sometimes that doesn't work, and you have to put in run. Yeah, the Commodore was like a secret club. You had to know the password.
+
+After you start the game, it's common for it to take ages to load, but it's better than downloading software updates every time ya try to start a modern game! Though in all seriousness, it probably has the longest load time of anything I've ever seen, and sometimes, it comes with a trippy display of colors. Whoooaaa!
+
+And after that you get a beautiful title screen, but that doesn't mean the game is working. You might get as far as a menu, but it's very possible, nothing else will happen. So then you scramble and try everything you can. Sometimes you gotta hit enter, F1, or spacebar, or that extinct forgotten key of run, or press the button on the joystick, or press the button on the joystick while it's plugged into port 2, and sometimes, none of that works! I've tried every key sometimes, every single key, which is kind of exhaustin'. It does help when it's plugged in. But anyway, I invented the Commodore 64 keyboard presser. Presses every key. (grabs a large frying pan and hits the keyboard with it) Haaannngh!
+
+I've even tried using the Commodore Mini. That's right, the Commodore Mini, with some select pre-installed games. They work fine, but in order to access the vast library of the Commodore 64, I had to add some ROMs and connect an old keyboard, even utilizing the built-in virtual keyboard for that elusive run button, but still, more than half the time, the games just don't wanna start, so what does that mean? Were the games always broken to begin with?
+
+Well, now you know why it's taken me 198 times to finally do a Commodore episode. It's not like the NES where it just starts up, well, most the time. The NES and future game consoles were like the young children who want to play. You say to the NES, "Hey, we're playing Clash at Demonhead!" And the NES goes, "Yay!" But the Commodore 64 is like, some old person. You say, "Hey, you wanna play?" And it goes, "My fuckin' back hurts, get outta here!"
+
+But don't worry. We're definitely playing some games, unlike the Atari 5200 episode. So once you're actually in a game, there's one final threshold to get past: the controls. If nothing happens, it could be the joystick is meant to be plugged into the second port. It could be that it uses the keyboard. It could be that the joystick is disabling every other key. Yes, that's actually happened to me before. When I plug in a joystick, half of the keys stop working. It could be this, it could be that. It could be, that there's a gremlin in your house.
+
+
+Contents
+Laurel and Hardy
+Back then, there were no standard rules for controlling a game. It wasn't as simple as B and A for jump and attack. It was all just a mystery to figure out. Take this Laurel and Hardy game, for instance. I ran back and forth, finding nothing but dead ends, so I'm sure there's something I'm missing, and I've tried. Believe me, I've tried. You know what's perplexing me even more? Is, who the hell decided to make a Laurel and Hardy game?! I mean, I'm all for it, but ya think any kids knew who Laurel and FUCKIN' Hardy were?! But that's what makes the Commodore so awesome.It seems every franchise, every movie, every game series had a title on Commodore.
+
+Big Trouble in Little China
+Big Trouble in Little China had a game on Commodore. That sounds like something a fan would come up with. I can't get over the fact that it was licensed as a real video game and not many people even know about it. Being that it was such a cult film, you don't expect it to get made into a game. It's not that great, though. I just move left, just keeps on going and going, and every once in a while, I fight somebody. I don't even know where Kurt Russell is.
+
+The Simpsons Arcade Game
+The Simpsons Arcade, one of the most popular arcade games I've ever seen. Common as dirt, at every roller rink and laundromat. Should have been on Super Nintendo or Genesis. But no, Commodore 64, where it looks and plays like shit.
+
+Street Fighter
+Street Fighter, yes! The original Street Fighter was on Commodore. It's barely functional. Mash keys and hope for the best.
+
+(The Nerd beats his opponent in one hit.)
+
+Well, that was easy. One hit takes down the opponent?! I wouldn't even bother trying any special moves, if there are any. The subway background might be one of the ugliest backgrounds I've ever seen. One backdrop says "Blockhead" for some reason. Blockhead? Like in Gumby? Or Charlie Brown? Oh, and the taunts are the best. Wow, that's such a demoralizing insult. (pause) Yeah.
+
+Street Fighter II
+But the crazy thing, is the Commodore had Street Fighter II! Yeah! Here it is, in the box! And if you look at the back, you can see from these screenshots, the graphics are just as good as the arcade. Wow! Now, let's check out the actual game.
+
+(The Nerd inserts the floppy disk into the computer.)
+
+Holy. Shit. This is the worst false advertising I've ever seen. They use screenshots from the arcade! Because they were too embarrassed to show what it really looked like! No, I take it back. They weren't embarrassed. They didn't care.
+
+So basically, this is Street Fighter II: The Shit Edition: Turdo. And no, I didn't expect anything better on an older, out-of-date platform, but why? Why would you even bother putting this on Commodore? And who bought this? Me.
+
+ThunderCats
+There was also a ThunderCats game. Wow, dude, a ThunderCats game in C64 glory. Lionel looks like a buff Napoleon Dynamite. Glitches aside, I'm sure it must have been really cool seeing one of your favorite cartoons becoming a game. But it's more entertaining to clean up cat vomit. I might even have some right now, and it would be better use of my time than this.
+
+ALF
+ALF. Yes, ALF. There was a goddamn ALF game on Commodore. So, let me ask: If it was your job to come up with an idea for an ALF game, what would you do? How about an ALF head floating around the streets? That's it, great idea! Occasionally, there's a cat, or another floating head. Who's that supposed to be? Willy? "Willy! Ha!" This makes the Sega Master System version look awesome! Next, Golden Girls on Commodore. I'm just kidding.
+
+Masters of the Universe: The Arcade Game
+Then there's He-Man. Imagine being a kid in the '80s and having a He-Man game on a home computer. Because, hell yeah! It's fuckin' He-Man! And it actually has the music from the show, even though it eventually turns into a weird droning sound.
+
+What's really cool, is that enemies killed are tallied by skulls cracked. I've played a lot of games and never seen it called that, but the one thing that truly sucks about this game, is that to jump, you have to hit up and diagonal. I can understand up, but up and diagonal? With this, you're guaranteed to fuck up and fall over and over. Oh, come on, come on!
+
+(He-Man jumps, then dies.)
+
+AHHH, SON of a FUCK!
+
+He-Man Junior
+But there's another He-Man game, He-Man Junior. Gotta love the illustration. The only way that drawing would be impressive, is if it was done on the LJN Video Art. It's a top-down view bullet hell shooter, kinda like Ikari Warriors. And it goes on and on, as you fight doctors and scrubs and hungry plants from Little Shop of Horrors. Skeletor makes an appearance, so that's cool, I guess. After I killed him, I came to a dead end. I mean, I just killed Skeletor, so, maybe I beat the game, and they just forgot to program an ending? That's a new one.
+
+Double Dragon
+Then there's Double Dragon. Not as good as the NES or arcade game, obviously, but it works well enough. It's one of the more playable games. Spacebar jumps, so there's actually a jump button, and it responds. Weird thing, though, who the hell is wanted for $50,000? Looks like someone from EarthBound.
+
+The Amazing Spider-Man
+Of course, there's plenty of superhero games on Commodore 64, like The Amazing Spider-Man. But there's nothing amazing about this bag of ass. I don't know if you're in a casino or a closed grocery store at night. Sounds like he farts when he lands on his butt. I like the giant image of Spider-Man over there, just to remind you what game you're playing.
+
+Batman
+With Batman '89, based on the movie, the music is pretty good. But the strange thing here, is they programmed a suicide button. If you press down, you die. What's the point? I don't know, I guess you can get stuck sometimes. And in my experience, it seems after you've killed yourself once, Batman will keep dying over and over, so I doubt that's supposed to happen, but it did happen.
+
+Mario's Brewery
+So there's a game called Mario's Brewery. Okay, a game with Mario drinking beer? Of course I had to play it. But it turns out, it's just a Donkey Kong clone, and was not licensed by Nintendo. So if you ever wanted to play Donkey Kong, but instead of Donkey Kong being an ape, he's a fermenting tank for beer, then this is the game for you.
+
+Terminator
+Now, of course, I have to play Terminator, because, hell yeah! It's one of the greatest sci-fi movies of all time! I gotta see how it is on the Commodore!
+
+(The game starts up, but it turns out the game is a space shooter..)
+
+The game is called Terminator, but it's just a friggin' space shooter. So, I've been fooled. The game just happens to be called Terminator, not based on the movie. I've just been motherfucked.
+
+Cyberdyne Warrior
+Okay, next, we have Cyberdyne Warriors. (pause) Does this one have anything to do with Terminator? After all, it's named after the company that created Skynet. Or, it just happens to be a coincidence. Not related, but the name Cyberdyne was actually used for a Japanese robotics company. Well, that just seems like tempting fate, and is fucking terrifying. Anyway, the game is just a generic run-and-gun platformer shooter. But it's not bad. In fact, I'd say it's better than many of the Terminator games I've reviewed. Besides, the music is legitimately awesome.
+
+Terminator 2: Judgment Day
+Now we're talkin'. Terminator 2: Judgment Day. Now this is the real deal. We know this one's definitely based on the movie, so let's check it out!
+
+(He starts the game, only to come across a blank white screen.)
+
+Um... okay?
+
+(sighs) Commodore 64 is like a box of chocolates. You never know what you're gonna get. You might get, like, a flashing light show or a loud beeping sound or just a bright white screen that blinds you. Come on! Load, you son of a bitch, load!
+
+(He mashes random keys on the keyboard, but it doesn't work.)
+
+(sighs) Well, I tried. (scoffs) I wouldn't be able to get this game to load to save my life. Just a blank white screen. But, hmm, maybe that's Judgment Day. Maybe the nuke exploded, and that's it. So, I made my point. Every franchise ever was on Commodore, but the REAL treasure lies in all the games that you never even would have thought existed. Things that you couldn't even imagine. So now, let's dig into some games that are a hundred percent... (screen becomes distorted) weeeeeiiiiiiiirrrrrrdddddd.
+
+Apple Cider Spider
+How 'bout Apple Cider Spider, where you're a frog hopping through an apple cider factory while avoiding spiders?
+
+Bouncing Heads
+Or Bouncing Heads, where you're going around collecting lips?
+
+Get Off My Garden
+Or a game called Get Off My Garden? You're an R2D2 watering can defending your garden from croquet balls and teddy bears? Yeah! Get off my lawn, you fuckers! But I bet this game holds the distinction of being the only game to have a game over screen that says, "Ugh! Diddums!"
+
+Cock'in
+Then there's a game called Cock'in, the one with the really weird cover art that I talked about before. You play as a rooster going around a hen house avoiding porcupines, but the best part is when the hen bashes you over the head.
+
+The Great Giana Sisters
+Another one with some pretty crazy cover art is Giana Sisters. But the game itself... wow. Does that look familiar, at all? Despite being a Mario rip-off, it went on to become a popular series.
+
+Sex Games
+Okay, here's one called Sex Games. Wow, Sex Games. Funny to think this would exist back in the early days of video games. They had their priorities. Now, I don't think I could show this one, but it's kind of like those adult Atari games, except this one's a little more, um, detailed. But the real funny thing is to control what's happening here, you have to shake the joystick like this, up and down really fast. That's what you do. Just make sure to grab the right one.
+
+Thing on a Spring
+Then there's a game called Thing on a Spring. What is that thing on a spring? Now, if you were a thing on a spring, you'd think you'd be real good at jumping, right? But no, the jumping sucks. So anyway, you're just helplessly hopping around, avoiding pig heads and getting punished by everything in sight. And when you get a game over, it really lets you know. In your face!
+
+Revenge of the Mutant Camels
+Then there's Revenge of the Mutant Camels. You're a camel, jumping around shitting out baby camels. To be honest, I don't know exactly what I'm supposed to be doing, but damn! This is awesome!
+
+Face Maker
+There's even a face designing program called Face Maker. Hmm, not quite as advanced as Nintendo's Mii Maker.
+
+Dancing Monster
+Then there's Dancing Monster.
+
+(The Nerd starts the game, and a purple monster with blue pants appears. He quits the game after a few seconds.)
+
+What. The. Fuck.
+
+Street Hassle
+Next up, Street Hassle.
+
+(He plays the game for a few minutes.)
+
+Okay, this is one of the best games I've ever played. What is this?!
+
+So, you're a wrestler, and I guess this is what he does on his day off. Walk around the streets and fuck people up. They don't even look like intimidating enemies! They're just random bypassers! But then, all of a sudden... Ahh, there's a g- there's a gorilla! There's a GORILLA! (chuckles) I mean, that's what you call a fuckin' game. A wrestler on the streets fighting gorillas. That's all ya need, and I LOVE the headbutt. There's something about the way he grabs them and leans into it. Unnngh! (wheezes) Yeah! (chuckles) Fuck...
+
+Oh, and that devastating sound effect, like the force of his skull bashing into them sends a fuckin' shockwave through the city! (laughs hysterically) And that bouncing cartoon sound when he jumps. Oh, man! And he can also squat and go, "Here doggy! Here do-" (laughs hysterically) "Here doggy!" (laughs even more) Wow. Thumbs up on Street Hassle.
+
+Netherworld
+Then there's Netherworld, where you're, I don't know, a space station like Deep Space Nine, floating around blasting at space dragons. But the reason I point this game out is because of the music. Check this out.
+
+(The title screen music starts, and he rocks out to the music for a lengthy period of time.)
+
+I mean... it sounds a little fuzzy, but for an early video game, it's one of the most ambitious scores I've ever heard and a testament to what the Commodore was capable of.
+
+Bozo's Night Out
+Next is Bozo's Night Out. In this game, I kid you not, you play as a drunk guy trying to get home from the bar. You have to avoid random people on the streets, and anything you touch, you end up in the hospital and start over. So does he go straight from the hospital to the bar again? Damn! You can even wander into the garden where there's a bunch of muppet monsters, and if you eat a mushroom, you go on a crazy trip. Holy shit.
+
+Everyone's a Wally
+One of the most complicated games is Everyone's a Wally. It's very innovative for its time because you switch between multiple characters, each with their own specialty such as plumber, electrician, etc. But as you switch, the other characters who you're not playing as are still walking around through very simple AI. So each player has to complete a job, and ultimately together, they all have to open a safe to collect their wages. Wow. Imagine if to get paid for your job, you had to steal your own pay by breaking into a fucking safe!
+
+Along the way, you go into a post office and stamps attack you. You go into a bakery and bread attacks you. That's the type of world these games operate in. It would be like if I walk into the Nerd Room, and all my games are flyin' around smackin' me in the face! (Street Fighter II for Commodore 64 smacks him in the face) Oh!
+
+So anyway, just walkin' around, goin' to a phone booth, and then... OH SHIT, it's a space shooter now! Yes, the game... just switched genres. Now, I'm a spaceship, shooting at lightning bolts in space! And then I come out of a different phone booth. So, it's basically a teleportation unit with a space shooter inside. And then I fall into a basement- Oh my God! Shark! Shark! Shark! Shark! And then I'm dead.
+
+Lazy Jones
+Well, I've saved the best for last. From what I've seen in my opinion, this is the best game, the crowning achievement on the Commodore 64. Lazy Jones. The premise is you're a hotel employee who wants to escape from his work and play video games. It's simple. All you do is walk around avoiding running into people and visit every room. In the rooms are giant TVs with a video game. So, this might be the first time in history that I'm aware of, at least, where you play a video game inside of a video game. That was a pretty revolutionary concept for its day, and that's the whole idea of Lazy Jones. It's just a bunch of minigames, and you never know what you're gonna get.
+
+It might be a ship shooting at spinning squares, or stopping carnival gravitrons from landing on Earth, or shooting lint and meatball asteroids, or volleying doggy bones, or fighting ostriches, or trying to cross a street like human Frogger, or breaking blocks while controlling... the copyright symbol. (chuckles) Have you ever played a game where you're the copyright symbol?! That's the best video game character. Not Samus from Metroid or Simon Belmont from Castlevania, the copyright symbol from Lazy Jones. Let's see some cosplay on that.
+
+Then there's this one. Oh, my turkey's on the conveyor! Stab it with the fork! Turkey's falling in the garbage can! Get the turkeys, get the turkeys, get the turkeys! Get the turkey, get the TURKEY! GET the TURKEY! The forks in the turkey! FORK IN THE TURKEY! Watch the phone! Watch the phone! AHHH, THOSE FUCKIN' PHONES! Always STOPPIN' me from getting my turkey before it FALLS IN THE GARBAGE!
+
+It makes NO sense. Unless it's a surreal nightmare inspired by... cooking a turkey, but the phone call distracts you and ruins the turkey, hence the reason why the phones are stopping you. (shakes head) Nah.
+
+Even though the minigames are so bizarre, it's still cool because you never get bored. With all this variety, it's like playing 10 games in one. It keeps you guessing what the hell you're gonna see next. It's the type of whacked-out lunacy that could only happen in the '80s. I especially love the character himself, Lazy Jones, a guy... who doesn't have a care in the world. I like his nonchalant bouncy walk, and for some reason, it goes so perfectly with the music. Check that out. It's that playful repetition with a slight mischievous mood, like he's up to something. And if that weren't enough, you can actually go to the toilet, and when Lazy Jones pisses, it sounds like lasers. Wow.
+
+Conclusion
+So there ya go. I finally got to play a bunch of Commodore games. Been wantin' to do this for a long time. And as you can see, it's a gold mine, it has so much more to explore. The Commodore 64 has a special place in our hearts. It made it through the video game crash. It was a cheaper affordable computer, making it the underdog of the competition. And it challenged and perplexed young gamers, many who went on to become programmers themselves. And to this day, it has a loving nerdy cult following. It's the Commodore club, where the password is, "Load, quote, asterisk, quote, comma, eight, comma, one."
+
+But we're not done yet. We still have a few more Commodore games we want to talk about. Um, certain horror-themed ones. And since we're heading into that time of year, where my room suddenly goes darker for whatever reason and it gets spooky, so it only makes sense. So light up those Jack-o'-Lanterns, and tune in next time.
