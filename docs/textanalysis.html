@@ -16,15 +16,41 @@
         <div id="panel">
             <div class="panel" id="panel1">
                 <h1>text analysis</h1>
+                <a href="https://github.com/rilegoat/digit100/tree/main/corpus">to view the text files i used to create this corpus, click here!</a>
                 <p>for this corpus analysis assignment, i am going to be comparing the writing styles of a long-running youtube series i have been watching for nearly a decade---Cinemassacre's "The Angry Video Game Nerd." <span style="color: #FF0000">please be aware that these scripts contain LOTS of profanity and graphic imagery, and they are intended for an adult audience!</span></p>
-                <p>The Angry Video Game Nerd is a Youtube series directed and written by James Rolfe of Cinemassacre, playing the role of his persona as the titular Angry Video Game Nerd, reviewing games that he considers incredibly poor quality for older video game consoles. typically his scripts are written with over-the-top graphic imagery & hyperbole and excessive profanity as a way to drive home his character's extreme vitriol for these games</p>
+                <p>The Angry Video Game Nerd is a Youtube series directed and written by James Rolfe of Cinemassacre, playing the role of his persona as the titular Angry Video Game Nerd, reviewing games that he considers incredibly poor quality for older video game consoles. typically his scripts are written with over-the-top graphic imagery & hyperbole and excessive profanity as a way to drive home his character's extreme vitriol for these games.</p>
                 <p>i'm interested to compare how the writing for these episodes has changed from the advent of his channel closer to 2008 compared to recent episodes after being acquired by sponsors & under new video content monitoring that Youtube has implemented in recent years, to see if profanity has decreased or certain structure patterns have changed over the years.</p>
-                <div class="flex-container">
-                    <div class="flex-item"><figure><img src="images/season4wordcloud.png" alt="season 4 wordcloud"><figcaption>Wordcloud from Season 4</figcaption></figure></div>
-                    <div class="flex-item"><figure><img src="images/season1415wordcloud.png" alt="season 14-15 wordcloud"><figcaption>Wordcloud from Seasons 14 and 15.</figcaption></figure></div>
-                </div>
-                <p>one minor observation is that there does seem to be a very slight decrease in how often profanity is used in the later seasons, which confirms my original hypothesis! you can see how much smaller the words are in the Season 14-15 image compared to Season 4.</p>
                 <hr>
+                <strong>test 1: n-gram analysis</strong>
+                <div class="flex-container">
+                    <div class="flex-item"><figure><img src="images/s4%20ngram.png" alt="season 4 ngram"><figcaption>Season 4: 3-gram analysis.</figcaption></figure></div>
+                    <div class="flex-item"><figure><img src="images/s1415%20ngram.png" alt="season 14-15 ngram"><figcaption>Seasons 14-15: 3-gram analysis.</figcaption></figure></div>
+                </div>
+                <p>i first performed a 3-gram analysis on both the set of text from season 4 (pictured left) and the set of text from seasons 14-15 (pictured right). each highlighted entry is a phrase containing expletives or used in profane context.</p>
+                <p>it's worth bringing up that, in seasons 14-15, the entries "i'd rather" and "this game is" are both highlighted because historically, James typically follows these phrases up with very vulgar descriptions depicting just how horrid he thinks the game is. these proceeding phrases typically include profanity and expletives, which can be inflating the usage count of expletives i will examine later in my analysis.</p>
+                <p>that being said, by examining the rank and frequency of these profane phrases, season 4 seems to have less profane phrases used, less often---although the phrase "what the fuck" is ranked one higher in season 4 than in season 14/15, it is the only noteworthy profane phrase used often in that season, followed only by "piece of shit" much further down the ranking.</p>
+                <p>based on these observations, we can conclude that seasons 14 and 15 are more likely to use repeated profane phrases in their writing.</p>
+                <hr>
+                <strong>test 2: word cloud generation</strong>
+                <div class="flex-container">
+                    <div class="flex-item"><figure><img src="images/s4%20wordcloud.png" alt="season 4 wordcloud"><figcaption>Season 4: Wordcloud.</figcaption></figure></div>
+                    <div class="flex-item"><figure><img src="images/s1415%20wordcloud.png" alt="season 14-15 wordcloud"><figcaption>Seasons 14-15: Wordcloud.</figcaption></figure></div>
+                </div>
+                <p>this test is solely visual, but it does help to get an idea of the contents of the text at a glance. by using Voyant tools, i supplied each corpus (Season 4, on the left; Season 14 & 15; on the right) and generated word clouds which juxtapose the most frequency used words against each other, with the most frequent words being the largest and the least frequent words being the smallest.</p>
+                <p>of note here is the growth in the size of expletives in Season 14 and 15. while it's very subtle, by looking closely, we can see that the words "fuck" and "shit" are marginally larger (or actually present compared to Season 4!) which tells us that these words were used more often in the later seasons than in earlier ones.</p>
+                <hr>
+                <strong>test 3: statistical frequency analysis</strong>
+                <figure><img src="images/expletive%20analysis%20across%20seasons.png" alt="excel sheet diagramming expletive usage in season 4 and seasons 14-15"><figcaption>A statistical calculation of expletive usage relative to entire corpus between seasons.</figcaption></figure>
+                <p>this was the test i was most excited to do. the point of this test was to gather the frequency of specific expletives (in this case, the seemingly most common: "fuck," "shit," and "ass") and get the percentage of how much they are used within the collection of all tokens per text set.</p>
+                <p>to do this, i used Antconc's "Plot" menu and and used the search bar to search for each of these words in both text sets. </p>
+                <figure><img src="images/analysis%20explanation%20in%20antconc.png" alt="explanation of how excel sheet values were calculated"><figcaption>An example of a page pulled in the "Plot" view in Antconc in order to obtain frequency values per word per text file.</figcaption></figure>
+                <p>here's an example of what that looked like in Antconc! by using the searchbar for the word i was looking to isolate, i could get a count of how many times that word appeared in each text. going back up to the spreadsheet, i filled in these values in a column along with storing the total token count for that corpus and performed some math to get the percentage of the corpus that was comprised of that word. i did this for both the Season 4 set and the Season 14 & 15 set.</p>
+                <p>by doing this statistical comparison, i discovered that a whopping additional 0.23% of the later seasons' writing was comprised of expletives compared to the earlier seasons---which contradicts my original hypothesis! this means that more of the text content per episode was filled with expletives, which goes against my original thought that later seasons would be more censored.</p>
+                <hr>
+                <strong>final thoughts</strong>
+                <p>to my surprise, my hypothesis was not proven---in fact, there is reasonable evidence to believe the opposite may be true! in all three tests, it's evident that more profanity is used in the most recent seasons of The Angry Video Game Nerd. but why?</p>
+                <p>one possible reason could be that the new writing team is being less deliberate in their usage of profanity and instead using a greater quantity of expletives to try and emulate James' original style of writing in earlier seasons. this doesn't entirely capture the feeling the original episodes had, because James' original delivery in what he said placed more emphasis on how vile the scenarios he described in detail were---rather than just using more profanity than necessary to drive home a point.</p>
+                <p>i'm definitely surprised by what i've learned from this corpus analysis assignment, and i'm glad i chose the text sets that i did---it made this assignment enjoyable, and i'm already so familiar with the original material that i was able to apply a good bit of context to the analysis tests i ran, in order to make sound inferences about the content of the text.</p>
                 <p>click <a href="index.html">here </a>to go back to home</p>
             </div>
         </div>
